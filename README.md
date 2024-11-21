@@ -1,9 +1,5 @@
 # Fikira-Chatbot
 
-Here's a customized and professional **README** for your chatbot project:
-
----
-
 # **Fikira - Mental Health FAQ Chatbot**
 
 Welcome to **Fikira**, your friendly and reliable virtual assistant designed to answer mental health-related queries! Fikira is powered by natural language processing (NLP) and a robust FAQ dataset to provide accurate and relevant answers. Whether you're seeking mental health advice or simply need to understand common concepts better, Fikira is here to assist.
